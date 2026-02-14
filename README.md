@@ -14,7 +14,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoserafim1&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoserafim1&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
