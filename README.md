@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-<p align="left">
+
 🎓 Ensino Médio Integrado ao Técnico em Manutenção e Suporte em Informática  
 🔎 Focado em Programação, Automação e Análise de Dados  
 📚 Atualmente estudando Python e iniciando em Java  
