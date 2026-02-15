@@ -32,4 +32,7 @@
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,idea" />
+</p>
+
