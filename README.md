@@ -29,4 +29,7 @@
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
+## 🎯 Objetivo
+
+Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI, com foco em Programação, Automação e Análise de Dados.
 
