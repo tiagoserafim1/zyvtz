@@ -32,8 +32,4 @@
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoseraffim1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoseraffim1&layout=compact&theme=tokyonight)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:7928CA&height=200&section=header&text=Tiago%20Serafim&fontSize=40&fontColor=ffffff" />
