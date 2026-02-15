@@ -32,4 +32,4 @@
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:7928CA&height=200&section=header&text=Tiago%20Serafim&fontSize=40&fontColor=ffffff" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
