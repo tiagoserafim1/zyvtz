@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 
 
 🎓 Ensino Médio Integrado ao Técnico em Manutenção e Suporte em Informática  
 🔎 Focado em Programação, Automação e Análise de Dados  
