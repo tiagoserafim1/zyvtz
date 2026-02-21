@@ -11,7 +11,7 @@
 
 🎓 Ensino Médio Integrado ao Técnico em Manutenção e Suporte em Informática <br>
 🔎 Focado em Programação e Análise de Dados <br>
-📊 Atualmente estudando Python e iniciando em Java <br>
+📊 Atualmente estudando Java <br>
 🎯 Buscando minha primeira oportunidade na área de tecnologia <br>
 💻 Sempre buscando evoluir e aprender novas tecnologias
 
