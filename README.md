@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff" />
 
-### 💻 IT Student | Backend & Data Focus
+### 💻 Software Development Student | Backend & Data
 
 </div>
 
@@ -42,5 +42,3 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 ---
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tiagoserafim1&show_icons=true&theme=tokyonight" />
