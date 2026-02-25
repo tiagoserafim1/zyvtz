@@ -2,6 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff" />
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0080&size=22&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tiago!;Future+Backend+Developer;Java+%7C+SQL+%7C+Python;Focused+on+Growth+and+Real+Projects" />
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff" />
+
 ### 💻 Software Development Student | Backend & Data
 
 </div>
