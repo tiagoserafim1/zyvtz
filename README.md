@@ -43,3 +43,4 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://github-readme-stats.vercel.app/api?username=tiagoserafim1&show_icons=true&theme=tokyonight" />
